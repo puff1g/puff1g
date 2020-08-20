@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Currently still in development :book:</h3>
+<h3 align="center">Currently still in development 📚</h3>
 
 - 🔭 I’m currently working on [Python Automation](https://github.com/puff1g/PythonProjects)
 
@@ -11,4 +11,6 @@
 
 - ⚡ Fun fact **Love cars 💗**
 
-- :book: Currently in school at [TEC](https://www.tec.dk)
+- 📚 Currently in school at [TEC](https://www.tec.dk)
+
+- ✔️ Currenlt looking for internship in Denmark! 
