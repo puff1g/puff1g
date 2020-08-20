@@ -5,7 +5,7 @@
 
 - 🤝 Often working with my Partner in crime - [Marcus](https://github.com/marcusmaczewski)
 
-- 👨‍💻 See my portfolio here - [http://tkeriksen.com](http://tkeriksen.com)
+- 👨‍💻 See my portfolio here - [http://tkeriksen.com](http://tkeriksen.com) [Still in dev currently]
 
 - 📫 Reach me @ **tke2000wow@gmail.com**
 
