@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h1 align="center">Currently still in development aka :book:</h1>
-I am a 20yr that loves to write code and work! <br/>
-Currently Learning [<p align="left"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/></p>]
-Personal project currently is: [Python Leaning](https://github.com/puff1g/PythonProjects) 
+<h3 align="center">Currently still in development :book:</h3>
 
-also giving a helping hand on this from time to time 
-[template app](https://github.com/marcusmaczewski/demo_app)
+- 🔭 I’m currently working on [Python Automation](https://github.com/puff1g/PythonProjects)
 
-Skills: Flutter / Reactjs / HTML / CSS
+- 🤝 Often working with my Partner in crime - [Marcus](https://github.com/marcusmaczewski)
 
-- 📫 **Reach me**  @ **tke2000wow@gmail.com** 
+- 👨‍💻 See my portfolio here - [http://tkeriksen.com](http://tkeriksen.com)
 
-The man him self [Marcus](https://github.com/marcusmaczewski)
+- 📫 Reach me @ **tke2000wow@gmail.com**
 
+- ⚡ Fun fact **Love cars :Heart:**
 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
