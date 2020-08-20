@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently working on [Python Automation](https://github.com/puff1g/PythonProjects)
 
-- 🤝 Often working with my Partner in crime - [Marcus](https://github.com/marcusmaczewski)
-
-- 👨‍💻 See my portfolio here - [http://tkeriksen.com](http://tkeriksen.com) [Still in dev currently]
-
-- 📫 Reach me @ **tke2000wow@gmail.com**
-
-- ⚡ Fun fact **Love cars 💗**
+- 💻 See my portfolio here - [http://tkeriksen.com](http://tkeriksen.com) [Still in dev currently]
 
 - 📚 Currently in school at [TEC](https://www.tec.dk)
 
-- ✔️ Currenlt looking for internship in Denmark! 
+- ✔️ Currenlt looking for internship in Denmark!
+
+- ⚡ Fun fact **Love cars 💗**
+
+- 🤝 Often working with my Partner in crime - [Marcus](https://github.com/marcusmaczewski)
+
+- 📫 Reach me @ **tke2000wow@gmail.com**
