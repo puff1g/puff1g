@@ -13,6 +13,6 @@ Skills: Flutter / Reactjs / HTML / CSS
 
 - 📫 **Reach me**  @ **tke2000wow@gmail.com** 
 
-The man him self [Friendo](https://github.com/marcusmaczewski)
+The man him self [Marcus](https://github.com/marcusmaczewski)
 
 
