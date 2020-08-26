@@ -3,7 +3,7 @@
 
 <h2 align="center"> Im a 20yr guy from Denmark who loves to code and work!<br/> also love cars a bit to much 😊 <h2/>
 
-- 🔭 I’m currently working on [Python Automation](https://github.com/puff1g/PythonProjects)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/puff1g/Portfolio)
 
 - 💻 See my portfolio here - [http://tkeriksen.com](http://tkeriksen.com) [Still in dev currently]
 
