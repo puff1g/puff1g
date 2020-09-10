@@ -3,7 +3,7 @@
 
 <h2 align="center"> Im a 20yr guy from Denmark who loves to code and work!<br/> also love cars a bit to much 😊 <h2/>
 
-- 🔭 I’m currently working on School Projects sence im in sool at this point in time 😊
+- 🔭 I’m currently working on many Projects sence im in school at this point in time 😊
 
 - 💻 See my portfolio here - [http://tkeriksen.com](http://tkeriksen.com) [Still in dev currently]
 
