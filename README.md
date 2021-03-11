@@ -9,7 +9,7 @@
 
 - 📚 Currently in school at [TEC](https://www.tec.dk)
 
-- ⚡ Fun fact **Love cars 💗**
+- ⚡ Fun fact...  **I love cars 💗**
 
 - 🤝 Often working with my Partner in crime - [Marcus](https://github.com/marcusmaczewski)
 
