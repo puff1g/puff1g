@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Thomas</h1>
 <h3 align="center">Currently still in development 📚</h3>
 
-<h2 align="center"> Im a 20yr guy from Denmark who loves to code and work!<br/> also love cars a bit to much 😊 <h2/>
+<h2 align="center"> Im a 21yr guy from Denmark who loves to code and work!<br/> also love cars a bit to much 😊 <h2/>
 
 - 🔭 I’m currently working on many Projects sence im in school at this point in time 😊
 
